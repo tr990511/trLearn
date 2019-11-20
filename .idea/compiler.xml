@@ -6,9 +6,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springSource" />
-        <module name="designPattern" />
+        <module name="spring-boot-amqp" />
+        <module name="spring-boot-actuator" />
+        <module name="spring-boot-task" />
+        <module name="spring-boot-cache" />
+        <module name="cloud-eureka-server" />
+        <module name="cloud-provider-ticket" />
+        <module name="spring-boot-elastic" />
+        <module name="spring-boot-jpa" />
+        <module name="spring-boot-security" />
+        <module name="cloud-consumer-user" />
+        <module name="spring-boot-mybatis" />
+        <module name="spring-jdbc" />
+        <module name="dubbo-provider-ticket" />
+        <module name="spring-boot-web" />
+        <module name="dubbo-consumer-user" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="designPattern" target="1.5" />
+      <module name="txSpring" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

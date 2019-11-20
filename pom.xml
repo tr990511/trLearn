@@ -11,6 +11,8 @@
     <modules>
         <module>designPattern</module>
         <module>springSource</module>
+        <module>spring-boot-web</module>
+
     </modules>
 
 

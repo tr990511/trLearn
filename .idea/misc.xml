@@ -5,10 +5,24 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-consumer-user/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-consumer-user/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-provider-ticket/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-provider-ticket/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-amqp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-elastic/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-security/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-task/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8.0_60" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
